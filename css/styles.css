@@ -35,12 +35,15 @@ h2 {
 
 ul {
     list-style-position: inside;
+    text-align: center;
 }
 
 .middle-container {
     margin-left: 5%;
+    position: relative;
 }
 
 .bottom-container, h2, h3 {
     text-align: center;
+    position: relative;
 }
