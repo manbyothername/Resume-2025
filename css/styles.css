@@ -23,16 +23,6 @@ h2 {
 .dev {
   text-decoration: underline;
 }
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  bottom: 300px;
-}
 
 .middle-container img {
   border-radius: 8px;
