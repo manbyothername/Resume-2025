@@ -1,2 +1,2 @@
 # Resume
-https://manbyothername.github.io/Resume-2024/
+https://manbyothername.github.io/Resume-2025/
