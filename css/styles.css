@@ -1,8 +1,8 @@
 *body {
-  position:absolute;
+  position: absolute;
   margin: 0;
   font-family: "Merriweather", serif;
-  text-align: center;
+  text-align: justify;
 }
 h1 {
   margin: 0 auto 0 auto;
